@@ -6,7 +6,7 @@
 ### <div align="center">I'm Danilo, a full-time passionate Product Manager & Solutions Engineer</div>  
   
 
-- 🔭 I’m currently working on a B2B (mostly corporate and enterprise) service built with LAMP stack for work, and super secret Golang + React for fun.  
+- 🔭 I’m currently working on a B2B (mostly corporate and enterprise) service built with LAMP stack, and super secret Golang + React for fun.  
   
 
 - 🌱 I’m currently learning about anything and everything  
@@ -86,7 +86,7 @@
 ----
 
 <details>
-  <summary><b>Public GPG Key:</b>
+  <summary><b>🔑 My public PGP Key:</b>
   </summary>
   <br/>
 
