@@ -3,17 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Danilo, a full-time passionate Product Manager & Solutions Engineer</div>  
-  
-
-- 🔭 I’m currently working on a B2B (mostly corporate and enterprise) service built with LAMP stack, and super secret Golang + React for fun.  
-  
-
-- 🌱 I’m currently learning about anything and everything  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
+### <div align="center">I'm Danilo, a passionate Product & Solutions Engineer</div>  
 
 <br/>  
 
