@@ -11,51 +11,56 @@
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
-
-
-### Frontend  
+### Agile
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://images.credly.com/size/110x110/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png" alt="IBM Design Thinking" height="50" />  
+<img style="margin: 10px" src="https://images.credly.com/size/110x110/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png" alt="PSM I" height="50" />  
+<img style="margin: 10px" src="https://images.credly.com/size/110x110/images/60de4761-84eb-4d9f-a6bc-c290c2e65985/pmi-acp-600px.png" alt="PMI-ACP" height="50" />  
+<img style="margin: 10px" src="https://images.credly.com/size/110x110/images/3e987079-3013-4359-9ad3-578c0b864e3d/image.png" alt="SAFE Agilist" height="50" />  
+<img style="margin: 10px" src="https://images.credly.com/size/110x110/images/0a8590ce-08e2-493f-b45a-e2c9ee8c848c/image.png" alt="PSPO II" height="50" />  
+<img style="margin: 10px" src="https://images.credly.com/size/110x110/images/ab5a94a3-3d62-4d02-a3c8-7a72524f4d12/image.png" alt="Scrum SPS" height="50" />  
+
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Data & Analytics  
+<div align="center">  
+<img style="margin: 10px" src="https://play-lh.googleusercontent.com/A13ztE6DN7UKyfgGc8amK7JDnwtoaLV7dif1fPk9LzRLWaCSTyN6T-BVEn2smwngIC8=w240-h480-rw" alt="GenAI" height="50" />  
+<img style="margin: 10px" src="https://download.logo.wine/logo/R_(programming_language)/R_(programming_language)-Logo.wine.png" alt="R Language" height="50" />  
+<img style="margin: 10px" src="https://www.python.org/static/opengraph-icon-200x200.png" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://pydata.org/wp-content/uploads/2016/07/jupyter-logo-300.png" alt="Jupyter" height="50" />  
+<img style="margin: 10px" src="https://datasciencedojo.com/wp-content/uploads/Embeddings-Building-Blocks-of-Large-Language-Models.jpg" alt="LLMs" height="50" />  
+<img style="margin: 10px" src="https://media.licdn.com/dms/image/C4E0BAQGbmegZ9h1otw/company-logo_100_100/0/1631352159490?e=1707350400&v=beta&t=0rXjbpT6IIHutls-RgxAvZQUjkIENYIRqx215I8MJ6g" alt="Kaggle" height="50" />  
+</div>
+
+</td><td valign="top" width="33%">
+
+### Technologies
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/salesforce.png" alt="Salesforce" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /> 
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Daemon-phk.svg/1200px-Daemon-phk.svg.png" alt="FreeBSD" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Mqtt-hor.svg/2560px-Mqtt-hor.svg.png" alt="MQTT" height="50" />  
+
 </div>
 
 </td></tr></table>  
