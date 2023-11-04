@@ -4,6 +4,7 @@
   
 
 ### <div align="center">I'm Danilo, a passionate Product & Solutions Engineer</div>  
+<div align="center">I build products, I solve problems, I help teams</div>
 
 <br/>  
 
